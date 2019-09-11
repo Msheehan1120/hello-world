@@ -1,9 +1,10 @@
 // Program name: small World 
 // Purpose: Extend program functionality and experience
 // Author: [Michaelena Sheehan]
-// Last Date modified [9/10/19]
+// Last Date modified [9/10/19]   
 
-#include <iostream>  
+#include <iostream>
+
 
 using namespace std;
  
